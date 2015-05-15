@@ -1,2 +1,3 @@
 # hello-world
-Hello World
+
+Mainly interested in machine learning through R and Python programming.
